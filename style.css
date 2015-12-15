@@ -1,0 +1,40 @@
+body {
+  background-color: #7B727B;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+#graph_div {
+  background-color: #241A24;  
+  box-shadow: 10px 10px 2px #2B092C;  
+  width: 540px;
+  height: 540px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 2px solid #7C0223;
+  margin: auto;
+}
+
+#desc {
+  position: left;
+  width: 300px;
+  height: 300px;  
+  box-shadow: 10px 10px 2px #2B092C;
+  background-color: #241A24;
+  text-align: center;
+  color: #999;
+  border: 2px solid #7C0223;
+}
+
+    
